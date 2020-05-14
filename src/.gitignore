@@ -2,3 +2,4 @@ logs/
 form.html
 test.html
 venv/
+.idea/*
